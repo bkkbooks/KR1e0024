@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR1e0024/v1
+canonical_location: https://kanripo.org/bkk/KR1e0024/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春秋傳說例
+  date: '2015-08-24 22:13:08.707515'
+  source:
+    repository: kanripo
+    path: KR1e0024
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1e0024_000.yaml, hash: 'sha256:280ab31b588dccbdbfc421769a37caa290c9a93fb883ea9d7e3320f9954a271d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1e0024_000.markers.yaml, hash: 'sha256:e334932fab8d377a4555e3953aa9d159479a535b02f389a166be8a429aeec38c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1e0024_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 172
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1e0024_WYG_000-3a
+    span:
+    - body
+    - 172
+    - 574
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1e0024_WYG_000-5a
+    span:
+    - body
+    - 574
+    - 3945
+  label: 春秋傳説例
+  type: section
+  level: 1
+hash: sha256:c994074831b39fb7a7b6e9a40cb7a3ce1c7e8f3dc7ab570ef6b00f7df0762732
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

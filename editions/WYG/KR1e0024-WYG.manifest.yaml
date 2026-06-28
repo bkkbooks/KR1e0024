@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1e0024/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR1e0024/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 春秋傳說例
+  date: '2015-08-24 22:13:08.707515'
+  source:
+    repository: kanripo
+    path: KR1e0024
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1e0024_000-WYG.yaml, hash: 'sha256:3bacc4c150f8328888e808e11024d2978b67af6f95f49979b2d6067f6d6aebe6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1e0024_000-WYG.markers.yaml, hash: 'sha256:0f7267ebd1881611cd1f41c3e24c035302e1d9be3a98e9d8df63c6d231583f43'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1e0024_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 3945
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:edd11b0e313fc1c73ba2ebd78502fd7b0d12c4f74ebaddbb1031b5bc66642058
