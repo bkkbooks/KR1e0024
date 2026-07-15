@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1e0024/v1
 canonical_location: https://kanripo.org/bkk/KR1e0024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 春秋傳說例
   date: '2015-08-24 22:13:08.707515'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1e0024_000.yaml, hash: 'sha256:f4ef92399fc7f0f5e9a1721f0dfcf4219802fc7652183ec371cd4cb2afa342d5'}
+  - {seq: 0, filename: KR1e0024_000.yaml, hash: 'sha256:1a3875d1f2657b7a4bb6dcade3230ce98862f12a834e838e4387cbb05acd3433'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0024_000.markers.yaml, hash: 'sha256:7c5262dab0c43cda1cdbf3b2547f43621fada9c86334b30cfcd336310369e8ca'}
+  - {seq: 0, role: markers, filename: assets/KR1e0024_000.markers.yaml, hash: 'sha256:e00fbcd77f19a02284c0e827c655b3d9c8e01edc8bed86068ce2f5a696fedfa0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 春秋傳説例
   type: section
   level: 1
-hash: sha256:7a3974e4b687d73c7fb64bd9b583777c87a05758e6133bd4a1a21ba47e8e3e3c
+hash: sha256:4356ae9d349369da1e4ffede5998196b94aef1b3e323cdfad2508dd66862af9d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
