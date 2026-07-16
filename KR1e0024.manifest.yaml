@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR1e0024_000.yaml, hash: 'sha256:1a3875d1f2657b7a4bb6dcade3230ce98862f12a834e838e4387cbb05acd3433'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0024_000.markers.yaml, hash: 'sha256:e00fbcd77f19a02284c0e827c655b3d9c8e01edc8bed86068ce2f5a696fedfa0'}
+  - {seq: 0, role: markers, filename: assets/KR1e0024_000.markers.yaml, hash: 'sha256:525d212ad35cdc37ded6898b514569f7683b17a0879a58c3558aace84c501c23'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,7 @@ table_of_contents:
   label: 春秋傳説例
   type: section
   level: 1
-hash: sha256:4356ae9d349369da1e4ffede5998196b94aef1b3e323cdfad2508dd66862af9d
+hash: sha256:6cfc51703efb5efa1916c329cd2c3d636e2904e05e728ee76f275ca7193ead83
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
